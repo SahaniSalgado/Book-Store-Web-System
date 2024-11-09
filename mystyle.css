@@ -1,0 +1,104 @@
+.head{
+    display: grid;
+    border: 1px solid white;
+    grid-template-columns: auto auto;
+    background-color: rgb(253, 192, 205);
+    padding: 20px;
+    font-size: 30px;
+    font-style: italic;
+}
+
+body{
+    background-image: url(image/img4.jpg);
+}
+
+.browsBooks{
+    font-size: 30px;
+    text-align: center;
+    
+}
+.welcom{
+    padding: 20px;
+}
+.homeIntro{
+    padding: 20px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.navigation{
+    font-size: 20px;
+    padding: 10px;
+}
+
+.navigationloginPage{
+    font-size: 20px;
+}
+
+
+
+a:link{
+    color: blueviolet;
+}
+a:visited{
+    color: rgb(74, 42, 250);
+}
+a:hover{
+    background-color: white;
+    padding: 2px;
+}
+a:active{
+    background-color: blueviolet;
+    color: white;
+    padding: 2px;
+}
+
+.login{
+    text-align: center;
+    font-size: 30px;
+    padding: 10px 20px;
+}
+
+.shoppingCart{
+    text-align: center;
+    font-size: 20px;
+}
+
+table{
+    text-align: center;
+    
+}
+
+tr{
+    padding: 20px;
+}
+
+.paymentDetails{
+    text-align: left;
+    padding: 50px;
+    font-size: 30px;
+
+
+}
+
+.Grid{
+    display: grid;
+    grid-template-columns: auto auto;
+    padding: 10px;
+}
+
+.details{
+    font-size: 20px;
+    padding: 40px;
+}
+
+.searchResults{
+    text-align: center;
+    font-size: 20px;
+}
+
+.Admin{
+    font-size: 20px;
+    padding: 30px;
+    text-align: center;
+}
